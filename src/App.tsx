@@ -282,7 +282,7 @@ function About() {
               viewport={{ once: true }}
             >
               <img
-                src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&q=80"
+                src="Images/about.png?auto=format&fit=crop&q=80"
                 alt="About"
                 className="w-full h-[600px] object-cover"
               />

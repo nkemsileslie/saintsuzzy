@@ -8,7 +8,7 @@ const products = [
     id: 1,
     name: 'Pink Tulle Dream Gown',
     price: '$899',
-    image: 'https://imgur.com/gallery/clothes-6F1io5m?auto=format&fit=crop&q=80&w=720',
+    image: 'Images/pinkdress.jpg?auto=format&fit=crop&q=80&w=720',
     instagram: 'https://instagram.com/saintsuzzy',
     description: 'A stunning pink tulle gown with dramatic ruffles and elegant draping.',
     sizes: ['S', 'M', 'L', 'XL'],
@@ -100,7 +100,7 @@ function Home() {
       >
         <div className="absolute inset-0">
           <img
-            src="https://i.imgur.com/XIkVbgU.jpg"
+            src="Images/pinkdress.jpg"
             alt="Pink Tulle Dream Gown"
             className="w-full h-full object-cover object-center"
           />
